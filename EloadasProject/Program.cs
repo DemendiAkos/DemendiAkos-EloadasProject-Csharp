@@ -10,7 +10,7 @@ namespace TEszt
     {
         static void Main(string[] args)
         {
-            
+
             Console.ReadKey();
         }
         
